@@ -23,7 +23,6 @@ p {
 
 .podpis {
     font-weight: bold;
-    text-align: center;
 }
 
 .ev {
@@ -88,11 +87,9 @@ ul.spisok li a:hover {
 
 #me {
     position: absolute;
-    top: 120px;
+    top: 220px;
     right: 40px;
     z-index: 1000;
-    font-weight: bold;
-    text-align: center;
 }
 
 #logo {
@@ -118,10 +115,6 @@ ul.spisok li a:hover {
     border-left: 1px #8c3426 dotted;
     border-right: 1px #8c3426 dotted;
     margin: 20px 0 0 30px;
-}
-
-#latest .podpis {
-    text-align: left;
 }
 
 #center_content {
