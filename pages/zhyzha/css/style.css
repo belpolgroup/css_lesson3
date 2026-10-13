@@ -1,0 +1,37 @@
+body {
+    background: url(../../../images/bg.jpg) no-repeat center top #b8b6bb;
+    padding: 0;
+    margin: 0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+}
+
+p {
+    margin: 0;
+    padding: 5px 0 0 0;
+    line-height: 15px;
+    text-align: justify;
+}
+
+.title {
+    padding: 2px 0 2px 0;
+    color: #409efd;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.podpis {
+    font-weight: bold;
+}
+
+.ev {
+    padding: 3px;
+    border: 1px #409efd solid;
+}
+
+#lf {
+    float: right;
+    padding: 3px;
+    border: 1px #E459EF solid;
+}
